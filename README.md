@@ -6,7 +6,7 @@
 
     **Key words:** phylogenetics, epidemiology, statistical inference, epidemiology models (infected population size), evolutionary models  (pathogen population size), phylodynamics (output parameters -> epidemiological interpretation)
 
-    > ⭐ **One sentence definition:** phylodynamics combines <u>evolutionary biology</u> and <u>epidemiology</u> to generate <u>evidence</u> about the <u>spread</u> and <u>source</u> of pathogens by exploring the <u>genomic signature</u> left by ongoing evolution during transmission. 
+    > ⭐ **One sentence definition:** phylodynamics combines [evolutionary biology](#) and <u>epidemiology</u> to generate <u>evidence</u> about the <u>spread</u> and <u>source</u> of pathogens by exploring the <u>genomic signature</u> left by ongoing evolution during transmission. 
 
 
 
