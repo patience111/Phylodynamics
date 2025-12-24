@@ -16,13 +16,19 @@
 
       - Consider a population size of N and partitions it into susceptible, infected, and removed compartments, haveing size S(t), I(t), and R(t), at time t, respectively.
       - The SIR Population is constrained to obey **S(t) + I(t) + R(t) = N**, meaning it is a closed population with no migration in or out.
-      -   
-  
+      -   sssss
+   
+   <br>**1.2 Foundational models and assuptions**
+   <hr>
+    - The coalescent 
 
 
 ## Papers
 
 ## Books
+1. **[Molecular Evolution : A Statistical Approach](https://academic.oup.com/book/26340)**
+   Ziheng Yang
+
 
 ## Workshops and conferences
 
