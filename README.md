@@ -8,6 +8,23 @@
 
     > ⭐ **One sentence definition:** phylodynamics combines *evolutionary biology* and *epidemiology* to generate *evidence* about the *spread* and *source* of pathogens by exploring the *genomic signature* left by ongoing evolution during transmission. 
 
+   ⭐ **Measurable evolution:** pathogen molecular evolution occurs on the same timescale as transmission. 
+   
+   <br>**1.1 Epidemiology**
+   <hr>
+   - SIR model
+
+      - Consider a population size of N and partitions it into susceptible, infected, and removed compartments, haveing size S(t), I(t), and R(t), at time t, respectively.
+      - The SIR Population is constrained to obey **S(t) + I(t) + R(t) = N**, meaning it is a closed population with no migration in or out.
+      -   
+  
+
+
+## Papers
+
+## Books
+
+## Workshops and conferences
 
 
     
